@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The manner of creating the Knights of the Antient and Honourable Order of the Bath, according to the custom used in England in time of peace. With a list of those honourable persons who are to be created Knights of the Bath at his Majesties coronation, 23 Aprill, 1661.</title>
+            <title>Antiquities of Warwickshire. Selections</title>
+            <author>Dugdale, William, Sir, 1605-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89485</idno>
+            <idno type="STC">Wing M458</idno>
+            <idno type="STC">Thomason E1085_9</idno>
+            <idno type="STC">ESTC R202854</idno>
+            <idno type="EEBO-CITATION">99863010</idno>
+            <idno type="PROQUEST">99863010</idno>
+            <idno type="VID">115192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115192)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1085[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The manner of creating the Knights of the Antient and Honourable Order of the Bath, according to the custom used in England in time of peace. With a list of those honourable persons who are to be created Knights of the Bath at his Majesties coronation, 23 Aprill, 1661.</title>
+                  <title>Antiquities of Warwickshire. Selections</title>
+                  <author>Dugdale, William, Sir, 1605-1686.</author>
+                  <author>Stephens, Philemon.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Phil. Stephens at the Kings Arms over against the Middle Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An extract, with additions by Philemon Stephens, from the 1656 edition of: Dugdale, Sir William.  The antiquities of Warwickshire.</note>
+                  <note>Annotation on Thomason copy: "march 19.", "1660"; imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Order of the Bath --  Early works to 1800.</term>
+               <term>Orders of knighthood and chivalry --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115192:1" rendition="simple:additions"/>
+            <p>The Manner of Creating the KNIGHTS OF THE Antient and Honourable <hi>Order of the</hi> BATH, According to the Cuſtom uſed in ENGLAND IN Time of Peace.</p>
+            <p>
+               <hi>WITH</hi> A Liſt of thoſe Honourable Perſons who are to be Created KNIGHTS of the <hi>BATH</hi> at his Majeſties Coronation, 23 <hi>Aprill,</hi> 1661.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Phil. Stephens</hi> at the Kings Arms over againſt the Middle Temple, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115192:2"/>
+            <pb n="1" facs="tcp:115192:2"/>
+            <head>The Manner of Creating the Knights of the Antient and Honourable Order of the Bath, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">1. <seg rend="decorInit">W</seg>Hen an Eſquire comes to Court, to receive the Order of Knighthood, in the time of peace, according to the Cuſtome of <hi>England,</hi> he ſhall be honourably received by the Offi<g ref="char:EOLhyphen"/>cers of the Court; <hi>ſc.</hi> the Steward or the Chamberlain, if they be preſent, but other<g ref="char:EOLhyphen"/>wiſe, by the Marſhalls and Uſhers. Then there ſhall be provided two Eſquires of Honour, grave, and well ſeen in Courtſhip and Nurture; as alſo in the feats of chivalry; and they ſhall be Eſquires, and Governours in all things re<g ref="char:EOLhyphen"/>lating to him which ſhall take the Order aboveſaid.</p>
+            <p n="2">2. And if the Eſquire do come before Dinner, he ſhall carry up one diſh of the firſt courſe to the Kings Table.</p>
+            <p n="3">3. And after this the Eſquires Governours ſhall conduct the Eſ<g ref="char:EOLhyphen"/>quire that is to receive the Order, into his Chamber, without any more being ſeen that day.</p>
+            <p n="4">4. And in the Evening the Eſquires Governours ſhall ſend for the Barber, and they ſhall make ready a Bath, handſomely hung with linnen, both within and without the Veſſel, taking care that it be covered with Tapiſtry, and blankets, in reſpect of the coldneſſe of
+<pb n="2" facs="tcp:115192:3"/>the night. And then ſhall the Eſquire be ſhaven, and his hair cut round. After which the Eſquires Governours ſhall go to the King and ſay, <hi>Sir, it is now in the Evening, and the Eſquire is fitted for the Bath, when you pleaſe:</hi> whereupon the King ſhall command his Cham<g ref="char:EOLhyphen"/>berlain, that he ſhall take along with him unto the Eſquires chamber, the moſt gentile and grave Knights that are preſent, to inform, coun<g ref="char:EOLhyphen"/>ſell, and inſtruct him touching the Order, and feats of Chivalry: And in like manner, that the other Eſquires of the Houſhold, with the Minſtrels, ſhall proceed before the Knights, ſinging, dancing and ſporting, even to the Chamber door of the ſaid Eſquire.</p>
+            <p n="5">5. And when the Eſquires Governours ſhall hear the noiſe of the Minſtrells, they ſhall undreſſe the ſaid Eſquire, and put him na<g ref="char:EOLhyphen"/>ked into the Bath; but at the entrance into the Chamber, the Eſ<g ref="char:EOLhyphen"/>quires Governours ſhall cauſe the Muſick to ceaſe, and the Eſquires alſo for a while. And this being done, the grave Knights ſhall en<g ref="char:EOLhyphen"/>ter into the Chamber, without making any noiſe, and doing reve<g ref="char:EOLhyphen"/>rence to each other, ſhall conſider which of themſelves it ſhall be that is to inſtruct the Eſquire in the Order and courſe of the Bath. And when they are agreed, then ſhall the chief of them go to the Bath, and kneeling down before it, ſay with a ſoft voice: <hi>Sir! Be this Bath of great honour to you;</hi> and then he ſhall declare unto him the feats of the Order, as far as he can, putting part of the water of the Bath upon the ſhoulder of the Eſquire; and having ſo done, take his leave. And the Eſquires Governours ſhall attend at the ſides of the Bath, and ſo likewiſe the other Knights, the one after the other, till all be done.</p>
+            <p n="6">6. Then ſhall theſe Knights go out of the Chamber for a while; and the Eſquires Governours ſhall take the Eſquire out of the Bath, and help him to his Bed, there to continue till his body be dry; which Bed ſhall be plain, and without Curtains. And as ſoon as he is dry, they ſhall help him out of Bed; they ſhall cloath him very warm, in reſpect of the cold of the night; and over his inner gar<g ref="char:EOLhyphen"/>ments ſhall put on a Robe of Ruſſet with long ſlieves, having a hood thereto, like unto that of an Hermite. And the Eſquire being out of the Bath, the Barber ſhall take away the Bath, with whatſoever appertaineth thereto, both within and without for his fee; and like<g ref="char:EOLhyphen"/>wiſe for the Collar (about his neck) be he Earl, Baron, Banneret or Batchelour, according to the cuſtome of the Court.</p>
+            <pb n="3" facs="tcp:115192:3"/>
+            <p n="7">7. And then ſhall the Eſquires Governours open the door of the Chamber, and ſhall cauſe the antient and grave Knights to enter, to conduct the Eſquire to the Chappel: And when they are come in, the Eſquires ſporting and dancing, ſhall go before the Eſquire, with the Minſtrels, making melody to the Chappel.</p>
+            <p n="8">8. And being entred the Chappell, there ſhall be wine, and Spices ready to give to the Knights and Eſquires. And then the Eſquires Governours ſhall bring the ſaid Knights before the Eſquires, to take their leave of him; and he ſhall give them thanks all together, for the pains, favour and courteſie which they have done him: and this being performed, they ſhall depart out of the Chappel.</p>
+            <p n="9">9. Then ſhall the Eſquires Governours ſhut the door of the Chappel, none ſtaying therein except themſelves, the Prieſt, the Chandler and the Watch. And in this manner ſhall the Eſquire ſtay in the Chappel all night, till it be day, beſtowing himſelf in Oriſons and Prayers, beſeeching Almighty God, and his bleſſed Mother, that of their good grace they will give him ability to receive this high temporal dignity, to the honour, praiſe, and ſervice of them; as alſo of the holy Church, and the Order of Knighthood. And at the Day-break, one ſhall call the Prieſt to confeſſe him of all his ſins, and having heard Mattins and Maſſe, ſhall afterwards be commended, if he pleaſe.</p>
+            <p n="10">10. And after his entrance into the Chappel, there ſhall be a Taper burning before him; and ſo ſoon as Maſſe is begun, one of the Governours ſhall hold the taper, untill the reading of the Goſpel; and then ſhall the Governour deliver it into his hands, who ſhall hold it himſelf, till the Goſpel be ended; but then he ſhall receive it again from him, and ſet it before him, there to ſtand during the whole time of Maſſe.</p>
+            <p n="11">11. And at the elevation of the Hoſt, one of the Go<g ref="char:EOLhyphen"/>vernours ſhall take the Hood from the Eſquire, and after<g ref="char:EOLhyphen"/>wards deliver it to him again, untill the Goſpel <hi>in Prin<g ref="char:EOLhyphen"/>cipio;</hi> And at the beginning thereof, the Governour ſhall take the ſame hood again, and cauſe it to be carried a<g ref="char:EOLhyphen"/>way,
+<pb n="4" facs="tcp:115192:4"/>and ſhall give him the taper again into his own hands.</p>
+            <p n="12">12 And then having a Penny, or more, in readineſſe, near to the Candleſtick, at the words <hi>verbum caro factum eſt,</hi> the Eſquire kneeling, ſhall offer the Taper and the Penny; that is to ſay, the Taper to the honour of God, and the Penny to the honour of the perſon that makes him a Knight. All which being performed, the Eſquires Governours ſhall con<g ref="char:EOLhyphen"/>duct the Eſquire to his Chamber, and ſhall lay him again in Bed till it be full Day-light. And when he ſhall be thus in Bed, till the time of his riſing, he ſhall be cloathed with a co<g ref="char:EOLhyphen"/>vering of Gold, called Singleton, and this ſhall be lined with blew Cardene. And when the Governours ſhall ſee it fit time, they ſhall go to the King, and ſay to him, <hi>Sir! When doth it pleaſe you that our Maſter ſhall riſe?</hi> Whereupon the King ſhall command the grave Knights, Eſquires and Minſtrels, to go to the chamber of the ſaid Eſquire, for to raiſe him, and to attire and dreſſe him, and to bring him before him into the Hall. But before their entrance, and the noiſe of the minſtrels heard, the Eſquires Governours ſhall provide all neceſſaries ready for the Order, to deliver to the Knights, for to attire and dreſſe the Eſquire.</p>
+            <p>And when the Knights are come to the Eſquires Cham<g ref="char:EOLhyphen"/>ber, they ſhall enter with leave, and ſay to him; <hi>Sir! Good morrow to you, it is time to get up, and make your ſelf ready;</hi> and thereupon they ſhall take him by the Arme to be dreſſed, the moſt antient of the ſaid Knights reaching him his Shirt, another giving him his Breeche<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the third his Doublet; and another putting upon him a Kirtle of red Tartarin: two o<g ref="char:EOLhyphen"/>thers ſhall raiſe him from the Bed, and two others put on his nether ſtockings, with ſoles of leather ſewed to them; two o<g ref="char:EOLhyphen"/>thers ſhall lace his ſlieves, and another ſhall gird him with a Girdle of white leather without any buckles thereon: Ano<g ref="char:EOLhyphen"/>ther ſhall combe his Head; another ſhall put on his Coife; another ſhall give him his mantle of ſilk, (over the Baſes or Kirtle of red Tartarin) tyed with a lace of white ſilk, with a
+<pb n="5" facs="tcp:115192:4"/>pair of white gloves hanging at the end of the Lace. And the Chandler ſhall take for his Fees, all the Garments, with the whole array and neceſſaries, wherewith the Eſquire ſhall be apparelled and clothed on the day that he comes into the Court to receive the Order: As alſo the Bed wherein he firſt lay after his Bathing, together with the Singleton and other neceſſaries: In conſideration of which Fees, the ſame Chand<g ref="char:EOLhyphen"/>ler ſhall find at his proper coſts, the ſaid Coife, the Gloves, the Girdle and the Lace.</p>
+            <p n="13">13. And when all this is done, the grave Knights ſhall get on horſepack, and conduct the Eſquire to the Hall, the Minſtrels going before making muſick: but the horſe muſt be accoutred as followeth: The Saddle having a cover of black leather, the bow of the Saddle being of white wood quartered; the Stirrop-leathers black, the Stirrops gilt; the Paitrel of black leather gilt, with a Croſſe pate gilt, hanging before the breaſt of the Horſe, but without any Crooper: the Bridle black, with long notched Reines after the <hi>Spaniſh</hi> faſhion, and a Croſſe pate on the front. And there muſt be provided a young Eſquire, courteous, who ſhall ride before the Eſquire bare-headed, and carry the Eſquires ſword, with the Spurs hanging at the handle of the Sword: and the Scab<g ref="char:EOLhyphen"/>bard of the Sword ſhall be of white leather, and the Girdle of white leather, without buckles. And the Youth ſhall hold the Sword by the point, and after this manner muſt they ride to the Kings Hall, the Governours being ready at hand.</p>
+            <p n="14">14. And the grave Knights ſhall conduct the ſaid Eſquire; and ſo ſoon as they come before the Hall door, the Mar<g ref="char:EOLhyphen"/>ſhals and Uſhers are to be ready to meet him, and deſire him to alight: And being alighted, the Marſhal ſhall take the Horſe for his Fee, or elſe <hi>C. s.</hi> Then ſhall the Knights conduct him into the Hall, up to the high table; and afterwards up to the end of the ſecond table, until the Kings coming, the Knights ſtanding on each ſide of him, and the Youth holding the ſword upright before him, between the two Governours.</p>
+            <pb n="6" facs="tcp:115192:5"/>
+            <p n="25">25. And when the King is come into the Hall, and be<g ref="char:EOLhyphen"/>holdeth thy Eſquire ready to receive his high Order, and temporal dignitie, he ſhall ask for the Sword and Spurs, which the Chamberlain ſhall take from the Youth, and ſhew to the King. And thereupon the King taking the right Spur, ſhall deliver it to the moſt noble and gentile perſon there, and ſhall ſay to him, Put this upon the Eſquires heel; and he kneeling on one knee, muſt take the Eſquire by the right Leg, and putting his foot on his own knee, is to faſten the Spur upon the right heel of the Eſquire; and then making a croſſe upon the Eſquires knee, ſhall kiſſe him: which being done, another Knight muſt come, and put on his left Spur in like manner. And then ſhall the King of his great favour, take the Sword and gird the Eſquire therewith: whereupon the Eſquire is to lift up his Armes, holding his hands together, and the Gloves betwixt his thumbs and fingers.</p>
+            <p n="16">16. And the King putting his own armes about the Eſquires neck, ſhall ſay, <hi>Be thou a good Knight,</hi> and afterwards kiſſe him. Then are the antient Knights to conduct this new Knight to the Chappel with much muſick, even to the High Altar, and there he ſhall kneel; and putting his right hand upon the Altar, is to promiſe to maintain the rights of holy Church du<g ref="char:EOLhyphen"/>ring his whole life.</p>
+            <p n="17">17. And then he ſhall ungirt himſelf of his Sword, and with great devotion to God and Holy Church, offer it there; praying unto God and all his Saints, that he may keep that Order which he hath ſo taken, even to the end: all which being accompliſhed, he is to take a draught of Wine.</p>
+            <p n="18">18. And at his going out of the Chappel, the Kings Ma<g ref="char:EOLhyphen"/>ſter-Cook being ready to take off his Spurs for his own Fee, ſhall ſay, <hi>I the Kings Maſter-Cook am come to receive your Spurs for my Fee; and if you do any thing contrary to the Order of Knighthood (which God forbid) I ſhall back your Spurs from your heels.</hi>
+            </p>
+            <p n="19">19. After this the Knights muſt conduct him again into
+<pb n="7" facs="tcp:115192:5"/>the Hall, where he ſhall ſit the firſt at the Knights table, and the Knights about him, himſelf to be ſerved as the others are, but he muſt neither eat nor drink at the table, nor ſpit, nor look about him, upwards nor downwards, more than a Bride. And this being done, one of his Governours having a Handker<g ref="char:EOLhyphen"/>chief in his hand, ſhall hold it before his face when he is to ſpit. And when the King is riſen from his table, and gone into his Chamber, then ſhall the new Knight be conducted with great ſtore of Knights and minſtrels proceeding before him unto his own chamber; and at his entrance the Knights and Min<g ref="char:EOLhyphen"/>ſtrels ſhall take leave of him, and go to Dinner.</p>
+            <p n="20">20. And the Knights being thus gone, the Chamber door ſhall be faſtened, and the new Knight diſ-robed of his attire, which is to be given to the Kings of Armes, in caſe they be there preſent, and if not, then to the other He<g ref="char:EOLhyphen"/>raulds, if they be there; otherwiſe to the Minſtrels, together with a mark of ſilver, if he be a Knight Batcheler; if a Baron, double to that; if an Earl, or of a ſuperiour rank, double thereto. And the ruſſet Night-cap muſt be given to the Watch, or elſe a Noble.</p>
+            <p n="21">21. Then is he to be clothed again with a blew robe, the ſlieves whereof to be ſtreight, ſhaped after the faſhion of a Prieſts; and upon his left ſhoulder to have a Lace of white ſilk, hanging: and he ſhall wear that Lace upon all his garments, from that day forwards, until he have gained ſome honour and renown by Armes, and is regiſtred of as high record, as the Nobles, Knights, Eſquires, and Heraulds of Armes; and be renowned for ſome feats of Armes, as aforeſaid, or that ſome great Prince, or moſt noble Lady can cut that Lace from his ſhoulder, ſaying; <hi>Sir! we have heard ſo much of the true renown concerning your honour, which you have done in divers parts, to the great fame of Chivalry, as to your ſelf, and of him that made you a Knight, that it is meet this Lace be taken from you.</hi>
+            </p>
+            <p n="22">22. After Dinner the Knights of honour and Gentlemen, muſt come to the Knight, and conduct him into the pre<g ref="char:EOLhyphen"/>ſence
+<pb n="8" facs="tcp:115192:6"/>of the King, the Eſquires Governours going before him, where he is to ſay, <hi>Right Noble and Renowned Sir! I do in all that I can, give you thanks for theſe Honours, Cour<g ref="char:EOLhyphen"/>teſies, and Bounty which you have vouchſafed to me:</hi> and having ſo ſaid, ſhall take his leave of the King.</p>
+            <p n="23">23. Then are the Eſquires Governours to take leave of this their Maſter, ſaying, <hi>Sir, We have according to the Kings command, and as we were obliged, done what we can; but if through negligence we have in ought diſpleaſed you, or by any thing we have done amiſſe at this time, we deſire pardon of you for it. And on the other ſide, Sir, as right is, and according to the Cuſtomes of the Court, and antient Kingdomes, we do re<g ref="char:EOLhyphen"/>quire our Robes and Fees, as the Kings Eſquires, companions to Batchelers and other Lords.</hi>
+            </p>
+            <div type="publishers_advertisement">
+               <head>Books lately Printed for <hi>Phil. Stephens,</hi> at the Kings Armes over againſt <hi>Middle-Temple Gate</hi> in <hi>Fleetſtreet.</hi>
+               </head>
+               <p>AN Entertainment for <hi>Lent,</hi> by the Famous Pen of <hi>Nic. Cauſinus,</hi> Author of the <hi>Holy Court.</hi>
+               </p>
+               <p>The <hi>Great Anti-chriſt</hi> never till now diſcovered: and proved no <hi>Pope,</hi> or <hi>Turk,</hi> nor any ſingle perſon, nor any one Monarch, or Tyrant in any Polity; but a Pack, or multitude of wic<g ref="char:EOLhyphen"/>ked men, that have combined themſelves together by <hi>Solemn League and Covenant,</hi> to ſlay the two Witneſſes of God— <hi>By</hi> the Right Reverend Father in God <hi>Gruffith</hi> Lord Biſhop of <hi>Oſſory.</hi>
+               </p>
+               <p>Some Sermons of Mr. <hi>George Maſterſon,</hi> Preached at the <hi>Temple,</hi> St. <hi>Gregories</hi> near St. <hi>Pauls,</hi> and at St. <hi>Clements.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:115192:6"/>
+            <head>The Forme of his Majeſties Summons, in a Letter from the Lord Chamberlain to the ſeveral perſons of Honour, who are to be created Knights of the <hi>Bath.</hi>
+            </head>
+            <opener>
+               <salute>SIR, After my hearty commendation to you,</salute>
+            </opener>
+            <p>WHereas his Majeſty hath appointed the 23d. day of <hi>April</hi> next for his ſolemn Coronation at <hi>Weſtminſter,</hi> and the day before to proceed publickly through the City of <hi>London</hi> to his Palace at <hi>VVhite Hall;</hi> And according to the Antient Cuſtome uſed by his Royal Predeceſſors, his Majeſty is graciouſly pleaſed to advance certain of his Nobility and principal Gentry into the Noble Order of the Bath, to attend him in thoſe great Solemnities; and (amongſt others) hath vouchſafed to no<g ref="char:EOLhyphen"/>minate you to be one of that number. Theſe are therefore to Will and require you in his Majeſties name to make your appear<g ref="char:EOLhyphen"/>ance at his Majeſties Palace at <hi>VVeſtminſter,</hi> upon Thurſday in the afternoon, being the 18th of <hi>April</hi> next, furniſhed and appointed, as in ſuch caſes appertaineth, there to begin the uſual Ceremony, and the next day to receive the ſaid Order of Knighthood of the Bath from his Majeſties hands. Hereof you are not to fail. And ſo I bid you heartily farewell.</p>
+            <closer>
+               <dateline>
+                  <hi>VVhite Hall</hi> 
+                  <date>
+                     <hi>March</hi> 1. 1660.</date>
+               </dateline>
+               <signed>Your very affectionate Friend <hi>MANCHESTER.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="names">
+            <pb n="10" facs="tcp:115192:7"/>
+            <head>The Names of ſome of thoſe Honourable Perſons, who are to be created Knights of the Bath at the Coronation of his Majeſty, <hi>April</hi> 23. 1661.</head>
+            <list>
+               <item>THe Lord <hi>Richard Butler</hi> ſon to the Lord Marqueſſe of Ormond.</item>
+               <item>
+                  <hi>Mr. Hyde,</hi> ſon to the Lord Chancellor.</item>
+               <item>
+                  <hi>Mr. Egerton,</hi> Son to the Earl of <hi>Bridgwater.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Berkley,</hi> ſon to the Lord <hi>Berkley.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Peregrin Bartu,</hi> 2d. ſon to the Earl of <hi>Lindſey.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Vere Vane,</hi> 2d. ſon to the Earl of <hi>Weſtmerland.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Bellaſis,</hi> ſon of the Lord <hi>Bella</hi> is.</item>
+               <item>
+                  <hi>Mr. Capell,</hi> Brother to the Earl of <hi>Eſſex.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Francis Vane,</hi> ſon of Sir <hi>Francis Vane.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Henry Vane,</hi> ſon of <hi>George Vane Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Mr. Edw. Hungerford</hi> of <hi>Farley Caſtle.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Monſon,</hi> ſon of Sir <hi>John Monſon,</hi> Knight of the Bath.</item>
+               <item>
+                  <hi>Mr. Charles Trevanian,</hi> whoſe Noble Father was ſlain at <hi>Briſtow.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Nich. Slannyng,</hi> Son of that Loyall Subject Sir <hi>Nich. Slan<g ref="char:EOLhyphen"/>ning,</hi> ſlain at <hi>Briſtow. 26</hi> July, <hi>1643.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Thomas Fanſhaw,</hi> ſon of Sir <hi>Thomas Fanſhaw.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Edward Wiſe.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Car Scroop</hi> Grandſon to the Valiant Sir <hi>Gervas Scroop,</hi> who received ſo many wounds in the Royal Cauſe at <hi>Edge-Hill.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Butler.</hi>
+               </item>
+               <item>Coll. <hi>Edward Harley,</hi> Governour of <hi>Dunkirk,</hi> eldeſt ſon of <hi>Sir Ro<g ref="char:EOLhyphen"/>bert Harley</hi> late Knight of the <hi>Bath.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Alexander Popham.</hi>
+               </item>
+               <item>Coll. <hi>Rich. Ingolsby.</hi>
+               </item>
+               <item>
+                  <hi>Mr. George Browne.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Bourchier Wray,</hi> ſon of <hi>Sir Chicheſter Wray.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Francis Godolphin.</hi>
+               </item>
+               <item>Sir <hi>Thomas Trevor.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Simon Leech.</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Bramſton,</hi> ſon of Sir <hi>John Bramſton,</hi> late Lord Chief Juſtice.</item>
+               <item>
+                  <hi>Mr. Wiſe.</hi>
+               </item>
+               <item>
+                  <hi>Mr. George Freeman,</hi> ſon of <hi>Sir Ralph Freeman.</hi>
+               </item>
+               <item>Sir <hi>Rolls.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
